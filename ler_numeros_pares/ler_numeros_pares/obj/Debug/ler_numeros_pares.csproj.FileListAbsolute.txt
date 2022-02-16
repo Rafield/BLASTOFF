@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\ler_numeros_pares\ler_numeros_pares\bin\Debug\ler_numeros_pares.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\ler_numeros_pares\ler_numeros_pares\bin\Debug\ler_numeros_pares.exe
+C:\Users\Rafael\Desktop\teste da empresa\ler_numeros_pares\ler_numeros_pares\bin\Debug\ler_numeros_pares.pdb
+C:\Users\Rafael\Desktop\teste da empresa\ler_numeros_pares\ler_numeros_pares\obj\Debug\ler_numeros_pares.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\ler_numeros_pares\ler_numeros_pares\obj\Debug\ler_numeros_pares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\ler_numeros_pares\ler_numeros_pares\obj\Debug\ler_numeros_pares.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\ler_numeros_pares\ler_numeros_pares\obj\Debug\ler_numeros_pares.exe
+C:\Users\Rafael\Desktop\teste da empresa\ler_numeros_pares\ler_numeros_pares\obj\Debug\ler_numeros_pares.pdb

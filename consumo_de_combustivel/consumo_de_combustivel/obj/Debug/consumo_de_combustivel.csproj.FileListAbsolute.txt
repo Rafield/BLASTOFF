@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\consumo_de_combustivel\consumo_de_combustivel\bin\Debug\consumo_de_combustivel.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\consumo_de_combustivel\consumo_de_combustivel\bin\Debug\consumo_de_combustivel.exe
+C:\Users\Rafael\Desktop\teste da empresa\consumo_de_combustivel\consumo_de_combustivel\bin\Debug\consumo_de_combustivel.pdb
+C:\Users\Rafael\Desktop\teste da empresa\consumo_de_combustivel\consumo_de_combustivel\obj\Debug\consumo_de_combustivel.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\consumo_de_combustivel\consumo_de_combustivel\obj\Debug\consumo_de_combustivel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\consumo_de_combustivel\consumo_de_combustivel\obj\Debug\consumo_de_combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\consumo_de_combustivel\consumo_de_combustivel\obj\Debug\consumo_de_combustivel.exe
+C:\Users\Rafael\Desktop\teste da empresa\consumo_de_combustivel\consumo_de_combustivel\obj\Debug\consumo_de_combustivel.pdb

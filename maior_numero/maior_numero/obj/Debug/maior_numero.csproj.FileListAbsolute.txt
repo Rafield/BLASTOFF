@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\maior_numero\maior_numero\bin\Debug\maior_numero.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\maior_numero\maior_numero\bin\Debug\maior_numero.exe
+C:\Users\Rafael\Desktop\teste da empresa\maior_numero\maior_numero\bin\Debug\maior_numero.pdb
+C:\Users\Rafael\Desktop\teste da empresa\maior_numero\maior_numero\obj\Debug\maior_numero.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\maior_numero\maior_numero\obj\Debug\maior_numero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\maior_numero\maior_numero\obj\Debug\maior_numero.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\maior_numero\maior_numero\obj\Debug\maior_numero.exe
+C:\Users\Rafael\Desktop\teste da empresa\maior_numero\maior_numero\obj\Debug\maior_numero.pdb

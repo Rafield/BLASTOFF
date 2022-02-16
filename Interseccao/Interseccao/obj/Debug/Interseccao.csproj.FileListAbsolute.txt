@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\Interseccao\Interseccao\bin\Debug\Interseccao.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\Interseccao\Interseccao\bin\Debug\Interseccao.exe
+C:\Users\Rafael\Desktop\teste da empresa\Interseccao\Interseccao\bin\Debug\Interseccao.pdb
+C:\Users\Rafael\Desktop\teste da empresa\Interseccao\Interseccao\obj\Debug\Interseccao.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\Interseccao\Interseccao\obj\Debug\Interseccao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\Interseccao\Interseccao\obj\Debug\Interseccao.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\Interseccao\Interseccao\obj\Debug\Interseccao.exe
+C:\Users\Rafael\Desktop\teste da empresa\Interseccao\Interseccao\obj\Debug\Interseccao.pdb

@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\conversao_celsius_fahrenheit\conversao_celsius_fahrenheit\bin\Debug\conversao_celsius_fahrenheit.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\conversao_celsius_fahrenheit\conversao_celsius_fahrenheit\bin\Debug\conversao_celsius_fahrenheit.exe
+C:\Users\Rafael\Desktop\teste da empresa\conversao_celsius_fahrenheit\conversao_celsius_fahrenheit\bin\Debug\conversao_celsius_fahrenheit.pdb
+C:\Users\Rafael\Desktop\teste da empresa\conversao_celsius_fahrenheit\conversao_celsius_fahrenheit\obj\Debug\conversao_celsius_fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\conversao_celsius_fahrenheit\conversao_celsius_fahrenheit\obj\Debug\conversao_celsius_fahrenheit.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\conversao_celsius_fahrenheit\conversao_celsius_fahrenheit\obj\Debug\conversao_celsius_fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\conversao_celsius_fahrenheit\conversao_celsius_fahrenheit\obj\Debug\conversao_celsius_fahrenheit.exe
+C:\Users\Rafael\Desktop\teste da empresa\conversao_celsius_fahrenheit\conversao_celsius_fahrenheit\obj\Debug\conversao_celsius_fahrenheit.pdb

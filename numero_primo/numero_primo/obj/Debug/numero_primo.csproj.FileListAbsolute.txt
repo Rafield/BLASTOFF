@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\numero_primo\numero_primo\bin\Debug\numero_primo.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\numero_primo\numero_primo\bin\Debug\numero_primo.exe
+C:\Users\Rafael\Desktop\teste da empresa\numero_primo\numero_primo\bin\Debug\numero_primo.pdb
+C:\Users\Rafael\Desktop\teste da empresa\numero_primo\numero_primo\obj\Debug\numero_primo.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\numero_primo\numero_primo\obj\Debug\numero_primo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\numero_primo\numero_primo\obj\Debug\numero_primo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\numero_primo\numero_primo\obj\Debug\numero_primo.exe
+C:\Users\Rafael\Desktop\teste da empresa\numero_primo\numero_primo\obj\Debug\numero_primo.pdb

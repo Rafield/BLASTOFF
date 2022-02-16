@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\Palíndromo\Palíndromo\obj\Debug\Palíndromo.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\Palíndromo\Palíndromo\obj\Debug\Palíndromo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\Palíndromo\Palíndromo\obj\Debug\Palíndromo.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\Palíndromo\Palíndromo\bin\Debug\Palíndromo.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\Palíndromo\Palíndromo\bin\Debug\Palíndromo.exe
+C:\Users\Rafael\Desktop\teste da empresa\Palíndromo\Palíndromo\bin\Debug\Palíndromo.pdb
+C:\Users\Rafael\Desktop\teste da empresa\Palíndromo\Palíndromo\obj\Debug\Palíndromo.exe
+C:\Users\Rafael\Desktop\teste da empresa\Palíndromo\Palíndromo\obj\Debug\Palíndromo.pdb

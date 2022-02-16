@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\Concatenacao\Concatenacao\bin\Debug\Concatenacao.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\Concatenacao\Concatenacao\bin\Debug\Concatenacao.exe
+C:\Users\Rafael\Desktop\teste da empresa\Concatenacao\Concatenacao\bin\Debug\Concatenacao.pdb
+C:\Users\Rafael\Desktop\teste da empresa\Concatenacao\Concatenacao\obj\Debug\Concatenacao.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\Concatenacao\Concatenacao\obj\Debug\Concatenacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\Concatenacao\Concatenacao\obj\Debug\Concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\Concatenacao\Concatenacao\obj\Debug\Concatenacao.exe
+C:\Users\Rafael\Desktop\teste da empresa\Concatenacao\Concatenacao\obj\Debug\Concatenacao.pdb

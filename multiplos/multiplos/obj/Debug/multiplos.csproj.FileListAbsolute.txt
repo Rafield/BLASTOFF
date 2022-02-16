@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\multiplos\multiplos\obj\Debug\multiplos.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\multiplos\multiplos\obj\Debug\multiplos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\multiplos\multiplos\obj\Debug\multiplos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\multiplos\multiplos\bin\Debug\multiplos.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\multiplos\multiplos\bin\Debug\multiplos.exe
+C:\Users\Rafael\Desktop\teste da empresa\multiplos\multiplos\bin\Debug\multiplos.pdb
+C:\Users\Rafael\Desktop\teste da empresa\multiplos\multiplos\obj\Debug\multiplos.exe
+C:\Users\Rafael\Desktop\teste da empresa\multiplos\multiplos\obj\Debug\multiplos.pdb

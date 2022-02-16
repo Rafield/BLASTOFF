@@ -1,0 +1,8 @@
+C:\Users\Rafael\Desktop\teste da empresa\duracao_da_partida\duracao_da_partida\obj\Debug\duracao_da_partida.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\teste da empresa\duracao_da_partida\duracao_da_partida\obj\Debug\duracao_da_partida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\teste da empresa\duracao_da_partida\duracao_da_partida\obj\Debug\duracao_da_partida.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\teste da empresa\duracao_da_partida\duracao_da_partida\bin\Debug\duracao_da_partida.exe.config
+C:\Users\Rafael\Desktop\teste da empresa\duracao_da_partida\duracao_da_partida\bin\Debug\duracao_da_partida.exe
+C:\Users\Rafael\Desktop\teste da empresa\duracao_da_partida\duracao_da_partida\bin\Debug\duracao_da_partida.pdb
+C:\Users\Rafael\Desktop\teste da empresa\duracao_da_partida\duracao_da_partida\obj\Debug\duracao_da_partida.exe
+C:\Users\Rafael\Desktop\teste da empresa\duracao_da_partida\duracao_da_partida\obj\Debug\duracao_da_partida.pdb
